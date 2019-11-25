@@ -1,0 +1,16 @@
+{
+  "name": "tdlib-message-purger",
+  "version": "1.0.0",
+  "description": "Destroy your messages in telegram group (TDLib)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladislav Kamenev",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tdl": "^6.0.1",
+    "tdl-tdlib-ffi": "^1.4.0"
+  }
+}
